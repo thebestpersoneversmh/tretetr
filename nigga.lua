@@ -1,2 +1,2 @@
-game:GetService("TeleportService"):Teleport(82028255140111, game.Players.LocalPlayer)
+game:GetService("TeleportService"):Teleport(93612682780562, game.Players.LocalPlayer)
 --t
